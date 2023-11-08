@@ -1,8 +1,8 @@
-PROJETO: Web Services com Spring Boot e JPA / Hibernate
+PROJETO: Web Services com Java/Spring Boot e JPA-Hibernate
 
 Projeto desenvolvido com a finalidade de estudo e aprendizado.
 
-Este projeto implementa uma regra de negócio , baseado em pedidos de usuários , onde cada usuário terá um registro completo dos pedidos associados a si mesmo.
+Este projeto implementa a regra de negócio , baseado em pedidos de usuários , onde cada usuário terá um registro completo dos pedidos associados a si mesmo.
 
 Além das tecnologias citadas , este projeto faz o uso das seguintes ferramentas:
 
